@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1518692360 source:c:\users\oval\desktop\robbers\func_robb.c
+	<string.h>
+	"func_robb.h"
+
+1518692578 c:\users\oval\desktop\robbers\func_robb.h
+	<stdio.h>
+	<stdlib.h>
+
+1518691978 source:c:\users\oval\desktop\robbers\main.c
+	<windows.h>
+	"func_robb.h"
+
